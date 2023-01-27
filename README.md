@@ -7,10 +7,10 @@
 
 
 <a href="https://github.com/berserkhmdvhb/berserkhmdvhb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berserkhmdvhb&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berserkhmdvhb&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/berserkhmdvhb/berserkhmdvhb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berserkhmdvhb&repo=berserkhmdvhb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berserkhmdvhb&layout=compact&theme=transparent" />
 </a>
 
 
