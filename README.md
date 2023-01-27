@@ -6,7 +6,7 @@
 </a>
 <!--- Showing Top Languages Used ---> 
 <a href="https://github.com/berserkhmdvhb/berserkhmdvhb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berserkhmdvhb&layout=compact&theme=transparent" height = "50"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berserkhmdvhb&layout=compact&theme=transparent" height = "250"/>
 </a>
 
 
